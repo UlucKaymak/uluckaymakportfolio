@@ -1,0 +1,677 @@
+[
+  {
+    "id": "18_09_2025-sarn-ne-duydu",
+    "title": "Sarnıç Ne Duydu?",
+    "type": "Audio Installation",
+    "date": "18_09_2025",
+    "description": "Prepared for Ali Emre's \"SARNIÇ\" exhibition, \"What Did Cistern Hear?\" is an auditory projection that contains the layers of space and time.\n\nGülhane Cistern, where the exhibition was held, is a historical water tank, built in the 2nd century, witnessed the people of four different periods throughout its existence. The installation transforms the tones of each instrument representing these four different periods witnessed by the cistern into an algorithmic music.\n\n“The sound installation accompanying the exhibition reminds me of a flow that spread over time with the echo of the water, an echo that extends from prehistory to Rome, the Ottoman Empire, the Republic, and today's Istanbul. This sound makes the connection that man establishes with water, memory, and existence audible.”\n-Mehmet Lütfi Şen, Curator",
+    "role": "Artist",
+    "thumbnail": "projects/2025_10_28-SarnicNeDuydu/SarnicNeDuydu0.jpeg",
+    "media": [
+      "projects/2025_10_28-SarnicNeDuydu/SarnicNeDuydu0.jpeg",
+      "projects/2025_10_28-SarnicNeDuydu/Gulhane-Sarnic.wav",
+      "projects/2025_10_28-SarnicNeDuydu/SarnicNeDuydu1.jpeg"
+    ],
+    "tags": [
+      "#ArtPiece",
+      "#Audio",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "inevgames-livber",
+    "title": "Livber: Smoke and Mirrors",
+    "type": "Video Game",
+    "date": "2025_05_02",
+    "description": "Lilith, whom you believed dead for years, calls to you with nothing but a letter, summoning you back to the old house, silent witness to your past.  Inside the letter, there is only an address and a few haunting lines: *\"I will birth our creation in our home. Come, and crown us in the dark. You and I must always be one.\"*  \n\nLivber: Smoke and Mirrors, is a text-based interactive fiction game in the *choose-your-own-adventure* tradition. Your choices don’t just influence your next move; they reshape the entire narrative. \n\nI started the project for audible parts, but I spread to other departments like a virus.  \n\n[Steam](https://store.steampowered.com/app/3700580/Livber_Smoke_and_Mirrors/)\n\n[Itch.io](https://inevgames.itch.io/livber-smoke-and-mirrors-prologue)\n\n[InEvGames](http://inevgames.com/)",
+    "role": "Soundtrack Composer, Audio Engineer, Audio FXs, and some other things",
+    "thumbnail": "projects/2025_06-InEvGames-Livber/Livber-Square.jpeg",
+    "media": [
+      "projects/2025_06-InEvGames-Livber/Livber-Square.jpeg",
+      "projects/2025_06-InEvGames-Livber/02 - livber_-_smoke_and_mirrors-unexpected_letter-preview.mp4",
+      "projects/2025_06-InEvGames-Livber/03 - livber_-_smoke_and_mirrors-runing_from-preview.mp4",
+      "projects/2025_06-InEvGames-Livber/04 - livber_-_smoke_and_mirrors-grand_unification-preview.mp4",
+      "projects/2025_06-InEvGames-Livber/Livber_Screenshot_(1).jpg",
+      "projects/2025_06-InEvGames-Livber/Livber_Screenshot_(3).jpg",
+      "projects/2025_06-InEvGames-Livber/Livber_Screenshot_(5).jpg",
+      "projects/2025_06-InEvGames-Livber/Livber_Screenshot_(8).jpg"
+    ],
+    "tags": [
+      "#VideoGame",
+      "#Audio",
+      "#Soundtrack"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "uluc_script-dithering",
+    "title": "Touchdesigner Scripts",
+    "type": "Script",
+    "date": "2025_04",
+    "description": "I started to make my own Interactive Poster style by creating my own viusal scripts. \n\nThese are for TouchDesigner (.tox) Some of them: \n* Drop Shadow Script \n* Bayer Dithering Algorithm Script\n* Lasso-Masking Script \n\nYou can purchase it from my [Buy Me a Coffee shop.](http://buymeacoffee.com/uluckaymak)",
+    "role": "Creative Coder, Artist",
+    "thumbnail": "projects/2025_04-uluc_script-dithering/Image0.jpg",
+    "media": [
+      "projects/2025_04-uluc_script-dithering/Image0.jpg",
+      "projects/2025_04-uluc_script-dithering/Image1.jpg",
+      "projects/2025_04-uluc_script-dithering/Image3.mp4",
+      "projects/2025_04-uluc_script-dithering/Image4.mp4"
+    ],
+    "tags": [
+      "#Visual",
+      "#CreativeCoding"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "2025_09_2-excuse-me-i-have-to-check-your-belonging",
+    "title": "Excuse Me! I Have to Check Your Belongings",
+    "type": "Video Game",
+    "date": "2025_09_2",
+    "description": "\"Imagine that you are a security guard. Your greatest pleasure is to feel the biscuit dipped in tea in your mouth. You can do anything to experience this pleasure every time. Do you really love biscuits, or is there another mystery behind this love? Ehm.. anyways, your boss was left alone during the shift. So you must do lots of things at the same time. Have a nice shift!\"\n\nCozy Cosmic horror with Simulation. I know it sounds confusing, right? Yeah, we were confused too.\n\nYou are one of the last living magnific members of this cult, “The Cult of Sclorbgoth”. You know that God is real and a way to return to his former glory. Take him enough biscuits. If you can offer him a biscuit as large as the first creature... then you will have access to glory and pleasures beyond creation. But if you can't reach it... You will suffer the wrath of Schlorbgoth.",
+    "role": "Soundtrack Composer, Audio Engineer, Game Designer",
+    "thumbnail": "projects/2025_09_2-Lumenfish-ExcuseMe/portfolio-belonging.jpeg",
+    "media": [
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame4.jpeg",
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame5.jpeg",
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame2.jpeg",
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame3.jpeg",
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame1.jpeg",
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame6.jpeg",
+      "projects/2025_09_2-Lumenfish-ExcuseMe/ExcuseMe-InGame7.jpeg"
+    ],
+    "tags": [
+      "#Audio",
+      "#Soundtrack",
+      "GameDesign",
+      "#VideoGame"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "reha-analogsynthesizer",
+    "title": "Synthesizer Prototype",
+    "type": "Musical Instrument",
+    "date": "2025_08",
+    "description": "From the project's engineer, Reha:\n\n\"Developed within Turkey’s growing music technology scene, focuses on creating a cost-effective analog synthesizer that preserves the warm and dynamic qualities of analog sound. A Voltage-Controlled Oscillator (VCO) with sawtooth and pulse outputs (including Pulse-Width Modulation) has been successfully implemented, along with a Voltage-Controlled Amplifier (VCA) for dynamic output control. Control Voltage (CV) functionality is also supported, enabling precise pitch control and modular integration. Future work will expand on these foundations to enhance the synthesizer’s versatility and usability.\"\n\ntldr: made musical blip-blop machine blocks with a very passionate team.",
+    "role": "Consultant",
+    "thumbnail": "projects/2025_08-asynth/synthproto-cover.jpeg",
+    "media": [
+      "projects/2025_08-asynth/WhatsApp Image 2024-12-20 at 12.07.52.jpeg",
+      "projects/2025_08-asynth/WhatsApp Image 2024-12-20 at 12.08.52.jpeg",
+      "projects/2025_08-asynth/WhatsApp Image 2025-01-15 at 15.51.44.jpeg",
+      "projects/2025_08-asynth/WhatsApp Image 2025-08-05 at 15.56.44.jpeg",
+      "projects/2025_08-asynth/WhatsApp Video 2025-08-05 at 16.05.27.mp4"
+    ],
+    "tags": [
+      "#Audio"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-gozkapali",
+    "title": "Göz, Kapalı",
+    "type": "Interactive Audio/Visual Art Piece",
+    "date": "2025_08_02",
+    "description": "\"Göz, kapalı\" is an art installation about the perception of time.\n\nTime is an abstract concept that allows us to understand the sequence of events, their duration, and the relationships between them. Plato defines time in terms of change, and Aristotle says that time exists as long as there is a before and after.\n\nBut what happens to time when we are alone with ourselves, independent of external perceptions?\n\n\"Göz, kapalı\" is a multi-layered narrative system based on the perception of time. While creating a visual that the experiencer can only experience with their eyes closed, it works through interactive ametric/granular music formation and the possibility of outcomes depending on one's experience.\n\nExhibited at: Eskizden Piksele | 2025_August_02-10 | Nevşehir_TR",
+    "role": "Artist",
+    "thumbnail": "projects/2025_08_02-ulucart-gozkapali/gozKapali-portfoliocover.png",
+    "media": [
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali1.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali2.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali3.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali4.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali5.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali6.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali7.jpeg",
+      "projects/2025_08_02-ulucart-gozkapali/gozkapali8.jpeg"
+    ],
+    "tags": [
+      "#Interactive",
+      "#AudioVisual",
+      "#ArtPiece",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "videogame-rideup",
+    "title": "Ride Up",
+    "type": "Video Game",
+    "date": "2025_07",
+    "description": "'The steepest climb between mind and body: Ride UP. Grab your bike and ascend through a world woven with delusions. Physics-based riding, brutal tracks, and a past that refuses to be remembered await you.' \n\n[Steam](https://store.steampowered.com/app/3752520/Ride_Up/)",
+    "role": "Sound Designer",
+    "thumbnail": "projects/2025_07-SuberGames-RideUp/suber-rideup2.jpg",
+    "media": [
+      "projects/2025_07-SuberGames-RideUp/suber-rideup2.jpg",
+      "projects/2025_07-SuberGames-RideUp/suber-rideup1.jpg",
+      "projects/2025_07-SuberGames-RideUp/suber-rideup3.jpg",
+      "projects/2025_07-SuberGames-RideUp/suber-rideup4.jpg",
+      "projects/2025_07-SuberGames-RideUp/suber-rideup5.jpg"
+    ],
+    "tags": [
+      "#VideoGame",
+      "#Audio"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "art-Persona",
+    "title": "PersonA",
+    "type": "Art Installation",
+    "date": "2025_06_11",
+    "description": "'The history of humanity is, in a way, the history of mankind’s efforts to define itself. In every age, in every society, in every individual, human beings have sought an image, a face, an identity. Art is one of the oldest and most powerful tools in this endeavor. Person A is a reflection of this search today: a portrait that dissolves the image of the individual into the collective — but never fixes it — changing with every glance, constantly reborn.' \n-Muzaffer Malkoç (Artist)  \n\nExhibited at: IFAD | 11-15 June | @AKM İstanbul",
+    "role": "Creative Coder",
+    "thumbnail": "projects/2025_06_11-Art-Persona/Cover.jpeg",
+    "media": [
+      "projects/2025_06_11-Art-Persona/60x33cm_sergi_2025_siyah.jpeg",
+      "projects/2025_06_11-Art-Persona/Cover.jpeg",
+      "projects/2025_06_11-Art-Persona/img-00001.jpeg",
+      "projects/2025_06_11-Art-Persona/img-00002.jpeg",
+      "projects/2025_06_11-Art-Persona/img-00003.jpeg",
+      "projects/2025_06_11-Art-Persona/img-00004.jpeg",
+      "projects/2025_06_11-Art-Persona/img-00005.jpeg",
+      "projects/2025_06_11-Art-Persona/img-captured.0.jpg",
+      "projects/2025_06_11-Art-Persona/PersonA-Plan.jpeg"
+    ],
+    "tags": [
+      "#ArtPieces",
+      "#CreativeCoding",
+      "#Visual"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-istanbulsegmented",
+    "title": "Istanbul, segmented",
+    "type": "PosterArt",
+    "date": "2025_01",
+    "description": "\"Everytime I try to imagine the old Istanbul, it appears black and white in my mind. I really can't colorize it exactly. So if I can't done this properly, I have to it it as i see.\"",
+    "role": "Artist",
+    "thumbnail": "projects/2025_01-uluc-istanbulsegmented/Image0.jpeg",
+    "media": [
+      "projects/2025_01-uluc-istanbulsegmented/Image1.jpeg",
+      "projects/2025_01-uluc-istanbulsegmented/Image2.jpeg",
+      "projects/2025_01-uluc-istanbulsegmented/Image3.jpeg",
+      "projects/2025_01-uluc-istanbulsegmented/Image4.jpeg"
+    ],
+    "tags": [
+      "#Visual",
+      "#ArtPiece"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-unseenimages",
+    "title": "Unseen Images",
+    "type": "Algorithmic Art Piece",
+    "date": "2024_09-Present",
+    "description": "I have been studying \"art consumption on social media\" for a while. And I started to develop some projects and art pieces for social media platforms. Unseen Images, is my first project on this topic. \n\nUnseen Images is a deconstructive visual art project that produces visual sensory data without showing the main image behind the data. \n[https://x.com/UnseenbyUluc](https://x.com/UnseenbyUluc)",
+    "role": "Creative Coder, Artist",
+    "thumbnail": "projects/2024_09-uluc-UnseenImages/Artwork-UnseenImages.jpeg",
+    "media": [
+      "projects/2024_09-uluc-UnseenImages/Unseen0.jpeg",
+      "projects/2024_09-uluc-UnseenImages/Unseen1-1.jpeg",
+      "projects/2024_09-uluc-UnseenImages/Unseen1-2.jpeg",
+      "projects/2024_09-uluc-UnseenImages/Unseen2-1.jpeg",
+      "projects/2024_09-uluc-UnseenImages/Unseen2-2.jpeg"
+    ],
+    "tags": [
+      "#Visual",
+      "#ArtPiece",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-mukarnasv3_musenna",
+    "title": "MUKARNASv3_müsenna",
+    "type": "Interactive Audio/Visual Art Piece",
+    "date": "2024_09_14",
+    "description": "As an architectural element, the muqarnas represent the ability to carry the weight of its extensive load at a single point and to be fixed. From the symbolical perspective, each layer of the muqarnas corresponds to a level, a stage in human life.  But each person goes through different lives, experiences, and degradations, carries life within these social formations, and stabilizes themselves. \n\n Thanks to [Ayyıldız.pro](https://www.ayyildiz.pro/) for having me. \n Exhibited at: Türkiye Culture Route | From Sketch to Pixel Digital Art \"Anatolia Edition\" | 2024",
+    "role": "Creative Coder, Artist",
+    "thumbnail": "projects/2024_09-uluc-mukarnasv3_musenna/MUQ-Portfolio.jpeg",
+    "media": [
+      "projects/2024_09-uluc-mukarnasv3_musenna/MUQ-Portfolio.jpeg",
+      "projects/2024_09-uluc-mukarnasv3_musenna/03 - IMG_7210.mp4",
+      "projects/2024_09-uluc-mukarnasv3_musenna/DSC_5994.jpeg",
+      "projects/2024_09-uluc-mukarnasv3_musenna/04 - IMG_7166.mp4"
+    ],
+    "tags": [
+      "#Interactive",
+      "#AudioVisual",
+      "#ArtPiece",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-bilincsizdavranislar",
+    "title": "BilinçsizDavranışlar",
+    "type": "Interactive Art Piece",
+    "date": "2024_09_06",
+    "description": "BilinçsizDavranışlar (UnconsciousBehaviors) interactively explains the impact of unconscious behaviors on social processes through social media. Installation is only visible through an Instagram filter. \n\nThanks to İremko, Emir, Lül and Gaflen. \nExhibited at: CAMP exhibition | 2024 September | @ŞahikaIst",
+    "role": "Creative Coder, Artist",
+    "thumbnail": "projects/2024_09-bilincsizdavranislar/Bilincsiz-PfCover.jpeg",
+    "media": [
+      "projects/2024_09-bilincsizdavranislar/Bilincsiz-PfCover.jpeg",
+      "projects/2024_09-bilincsizdavranislar/05 - An8_4QZk3ThekM4VPyqCMxxpCQw7BJQWEtwnXeeBHTrEOXASaJ5Pf6WywLyPnQvtnWrNuSkeGY3bTD48sVDBFK4.mp4",
+      "projects/2024_09-bilincsizdavranislar/Sunum-2.jpeg",
+      "projects/2024_09-bilincsizdavranislar/unconscious.jpeg"
+    ],
+    "tags": [
+      "#Interactive",
+      "#Visual",
+      "#ArtPiece",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-dusuncenintomografisi",
+    "title": "Düşüncenin Tomografisi",
+    "type": "Audio/Visual Art Piece",
+    "date": "2024_07",
+    "description": "\"We are all thinking. Thinking is a different kind of miracle.\"  \n\nFor each individual, a thought is unique. Two individuals share a common thought or a common knowledge. Even if they are thinking about it, they have come from different paths and have gained knowledge through different data. \n\nDifferent data means different processes.",
+    "role": "Creative Coder, Artist",
+    "thumbnail": "projects/2024_07-uluc-dusuncenintomografisi/untitled.jpeg",
+    "media": [
+      "projects/2024_07-uluc-dusuncenintomografisi/untitled.jpeg",
+      "projects/2024_07-uluc-dusuncenintomografisi/03 - Loop3.mp4",
+      "projects/2024_07-uluc-dusuncenintomografisi/04 - Loop2.mp4",
+      "projects/2024_07-uluc-dusuncenintomografisi/05 - Loop1.mp4"
+    ],
+    "tags": [
+      "#AudioVisual",
+      "#ArtPiece",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "anlaki-olurolmadik",
+    "title": "Anla Ki - Olur Olmadık",
+    "type": "Album Cover Art",
+    "date": "2024_05",
+    "description": "Anla Ki is an alternative rock band from Istanbul formed with lovely people. I made three album covers for them before. I also wrote and played the keyboard parts of this track. \n\nYou can listen and follow them, and see my art from: \n[Instagram](https://www.instagram.com/anlakiofficial/)\n[Spotify](https://open.spotify.com/track/5rrfNszL3D27Lmvvs8FHAz?si=3726616758d94f18)\n[Apple Music](https://music.apple.com/tr/album/gün-gelir/1679492387?i=1679492396)",
+    "role": "Cover Artist",
+    "thumbnail": "projects/2024_05-anlaki-olurolmadik/ANLAKI_04-Cover.jpeg",
+    "media": [
+      "projects/2024_05-anlaki-olurolmadik/ANLAKI_04-Cover.jpeg",
+      "projects/2024_05-anlaki-olurolmadik/COVERRENDER02.jpeg"
+    ],
+    "tags": [
+      "#AlbumCoverArt",
+      "#Visual"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "soundtrack-avrupadahayat",
+    "title": "Avrupa'da Hayat",
+    "type": "TV Program",
+    "date": "2024_05",
+    "description": "Avrupa'da Hayat (Life in Europe) is a TV program about racism and discrimination in Germany. \nThe program examines the groups exposed to racism, areas of systemic racism, the role of the media, the attitude of politics, the rise of right-wing movements, and the origins of racist ideology in the West.\n\nAvrupa'da Hayat released on TRTTurkOpening Soundtrack Composer",
+    "role": "Opening Soundtrack Composer",
+    "thumbnail": "projects/2024_05-AvrupadaHayat/works-avrupadahayat.jpeg",
+    "media": [
+      "projects/2024_05-AvrupadaHayat/works-avrupadahayat.jpeg",
+      "projects/2024_05-AvrupadaHayat/04165d6703f306011dea45058c86363c1-high.mp4"
+    ],
+    "tags": [
+      "#Soundtrack",
+      "#Audio"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "uluc-motivasyonkonusmasi",
+    "title": "Motivasyon Konu​ş​ması",
+    "type": "Personal Music Release",
+    "date": "2023_12",
+    "description": "Warning: This speech is about motivation! \n\nA happy-sounding robotic voice tells you \"Your dreams are completely normal, everybody dreaming about dying. And I believe you can do this.\" \n\nI think it's funny.",
+    "role": "Producer, Composer",
+    "thumbnail": "projects/2023_12-uluc-motivasyonkonusmasi/MotivasyonKonuşması2.jpeg",
+    "media": [
+      "projects/2023_12-uluc-motivasyonkonusmasi/MotivasyonKonuşması2.jpeg",
+      "projects/2023_12-uluc-motivasyonkonusmasi/motivasyon_konusmasi-hayal_kur-preview.mp4",
+      "projects/2023_12-uluc-motivasyonkonusmasi/motivasyon_konusmasi-kendini_sev-preview.mp4"
+    ],
+    "tags": [
+      "#AlbumCoverArt",
+      "#MusicRelease",
+      "#Audio",
+      "#Visual"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "event-anlaki_cicekdurbunu",
+    "title": "Anla Ki & Çiçek Dürbünü",
+    "type": "Launch Event",
+    "date": "2023_11_06",
+    "description": "\"People must feel friendly and special.\" That was my first brief. And we achieve that with a beautiful team with a beautiful soul. [Anla Ki](https://www.instagram.com/anlakiofficial/) and [Çiçek Dürbünü](https://www.instagram.com/thecicekdurbunu/) are alternative rock bands from Istanbul. \n\nThanks to [Ozza Galata](https://www.instagram.com/ozzagalata/) for having us.\nThanks to [Reparikov](https://www.instagram.com/reparikov/) for letting me use his photos.",
+    "role": "Creative Director, VJ Artist, Videographer",
+    "thumbnail": "projects/2023-10-AnlaKiCicekDurbunu-Lansman/Works-LansmanKonseri.jpeg",
+    "media": [
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/DSC02146.jpeg",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/04 - Untitled2.mp4",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/DSC03118.jpeg",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/Durbun01.jpeg",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/02 - Untitled.mp4",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/Durbun02.jpeg",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/IMG_3940.jpeg",
+      "projects/2023-10-AnlaKiCicekDurbunu-Lansman/WhatsApp Image 2023-10-08 at 01.04.31.jpeg"
+    ],
+    "tags": [
+      "#VideoProduction",
+      "#Visual"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "anlaki-yasadikca",
+    "title": "Anla Ki - Yaşadıkça",
+    "type": "Album Cover Art",
+    "date": "2023_08",
+    "description": "Anla Ki is an alternative-rock band from Istanbul which is full of lovely people. I made their Album Cover, Logo, and Spotify Canvas Animations. I'll continue to support them as a visual artist. \n\nYou can listen and follow them, and see my art from:\n[Instagram](https://www.instagram.com/anlakiofficial/)\n[Spotify](https://open.spotify.com/track/5rrfNszL3D27Lmvvs8FHAz?si=3726616758d94f18)\n[Apple Music](https://music.apple.com/tr/album/gün-gelir/1679492387?i=1679492396)",
+    "role": "Cover Artist",
+    "thumbnail": "projects/2023_08-anlaki-yasadikca/anlakiyasadikca.jpeg",
+    "media": [
+      "projects/2023_08-anlaki-yasadikca/anlakiyasadikca.jpeg"
+    ],
+    "tags": [
+      "#AlbumCoverArt",
+      "#Visual"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "ulucart-mukarnasv2",
+    "title": "MUKARNASv2 Series",
+    "type": "Audio/Visual Art Piece",
+    "date": "2023_07",
+    "description": "Muqarnas is an architectural design. It represents the balance of the universe and each layer represents the degrees of human nature. \"Every human being carries life in these social formations, going through different lives, different experiences, and different degradations.\" \n\nAli Emre did an installation on this subject before as part of the biennial in Istanbul. \n[YouTube](https://www.youtube.com/watch?v=btTYDANmmUU) \n\nThe necessary consent for the use of this interpreted work has been given by the author.",
+    "role": "Creative Coder, Artist",
+    "thumbnail": "projects/2023_06-uluc-mukarnasv2/Muq2-cover.jpeg",
+    "media": [
+      "projects/2023_06-uluc-mukarnasv2/Muq2-cover.jpeg",
+      "projects/2023_06-uluc-mukarnasv2/Sunum-MUQv2_0.mp4",
+      "projects/2023_06-uluc-mukarnasv2/Sunum-MUQv2_1.mp4"
+    ],
+    "tags": [
+      "#ArtPiece",
+      "#AudioVisual",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "anlaki-güngelir",
+    "title": "Anla Ki - Gün Gelir",
+    "type": "Album Cover Art",
+    "date": "2023_03",
+    "description": "Anla Ki is an alternative-rock band from Istanbul which is full of lovely people. I made an album cover for them before.\n\nYou can listen and follow them, and see my art from: \n[Instagram](https://www.instagram.com/anlakiofficial/)\n[Spotify](https://open.spotify.com/track/58zWvENDzNspHYo7xqOGUj?si=75943929902040a7)\n[Apple Music](https://music.apple.com/tr/album/gün-gelir/1679492387?i=1679492396)",
+    "role": "Cover Artist",
+    "thumbnail": "projects/2023_03-anlaki-gungelir/AnlaKi-GGA-SingleCover.jpeg",
+    "media": [
+      "projects/2023_03-anlaki-gungelir/AnlaKi-GGA-SingleCover.jpeg",
+      "projects/2023_03-anlaki-gungelir/AnlaKi-BlenderExport.jpeg",
+      "projects/2023_03-anlaki-gungelir/AnlaKi-BlenderExport1.jpeg"
+    ],
+    "tags": [
+      "#AlbumCoverArt",
+      "#Visual"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "uluc-kedikizlar",
+    "title": "KEDİ KIZLAR",
+    "type": "Music EP",
+    "date": "2023_03",
+    "description": "I don't know why I made these tracks. \n\nBut the first is about tongue fetish, and the second is about cat-girls. \nYou can listen on: [BandCamp](https://uluc.bandcamp.com/album/kedi-kizlar)",
+    "role": "Producer, Artist",
+    "thumbnail": "projects/2023_03-uluc-kedikizlar/kedikizlar.jpeg",
+    "media": [
+      "projects/2023_03-uluc-kedikizlar/kedikizlar.jpeg",
+      "projects/2023_03-uluc-kedikizlar/kedi_kizlar-dil_fetisi-preview.mp4",
+      "projects/2023_03-uluc-kedikizlar/kedi_kizlar-kedi_kiz-preview.mp4"
+    ],
+    "tags": [
+      "#MusicRelease",
+      "#AlbumCoverArt",
+      "#Audio"
+    ],
+    "enabled": false
+  },
+  {
+    "id": "uluc-memories",
+    "title": "memories",
+    "type": "Algorithmic Music Pieces",
+    "date": "2023_01",
+    "description": "memories is a music project for releasing my improvised algorithmic recordings in different genres. Also, the artwork was made with an algorithm. \n\nListen on: \n[Spotify](https://open.spotify.com/playlist/7fcog6NddiFxlOECirY5Mp?si=ef32202aa3bc4835)\n[Apple Music](https://music.apple.com/tr/album/memory-01/1661630756?i=1661630758)\n[Youtube Music](https://music.youtube.com/playlist?list=PLOqHOxzbCQT-18JvYr2od5-t_C6oHpB-w&feature=share) \n[BandCamp (additional memories)](https://uluc.bandcamp.com/album/memories)",
+    "role": "Producer, Creative Coder",
+    "thumbnail": "projects/2023-uluc-memories/coverart-memory_01.jpeg",
+    "media": [
+      "projects/2023-uluc-memories/coverart-memory_01.jpeg",
+      "projects/2023-uluc-memories/coverart-memory_03.jpeg",
+      "projects/2023-uluc-memories/coverart-memory_04.jpeg",
+      "projects/2023-uluc-memories/memory_01-memory_01-preview.mp4",
+      "projects/2023-uluc-memories/memory_02-memory_02-preview.mp4",
+      "projects/2023-uluc-memories/memory_03-memory_03-preview.mp4",
+      "projects/2023-uluc-memories/memory_04-memory_04-preview.mp4",
+      "projects/2023-uluc-memories/memory_05-memory_05-preview.mp4"
+    ],
+    "tags": [
+      "#MusicRelease",
+      "#AlbumCoverArt",
+      "#Visual",
+      "#Audio",
+      "#Algorithmic"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "kisafilm-bubirstratejioyunudur",
+    "title": " Bu Bir Strateji Oyunudur",
+    "type": "Short Film",
+    "date": "2022_11",
+    "description": "\"Sadık (40) is an officer who does errands in the municipality. He is not valued at all at work and at home, and cannot express himself. But apart from all this, there is a place where Sadık finds himself: football fields in the neighborhoods. From the Director: People often think that life is not fair. Economic distributions, merit, love, and many more are never balanced. I have always been intrigued by the public's reaction to injustice, in chorus and loudest at football matches, especially through the referee. Why do we react so much to injustice in football? Is life so fair?\"\n\n24th Izmir Short Film Festival, National Panorama Section, Screening Selection. 2023",
+    "role": "Audio Engineer",
+    "thumbnail": "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-cover.jpeg",
+    "media": [
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-cover.jpeg",
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-0.jpeg",
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-1.jpeg",
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-2.jpeg",
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-3.jpeg",
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-4.jpeg",
+      "projects/2022_10-kisafilm-BuBirStratejiOyunudur/BSSO-5.jpeg"
+    ],
+    "tags": [
+      "#Other"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "anlaki-artikbenyokum",
+    "title": "Anla Ki - Artık Ben Yokum",
+    "type": "Album Cover Art",
+    "date": "2022_09",
+    "description": "Anla Ki is an alternative-rock band from Istanbul which is full of lovely people. I made their Album Cover, Logo, and Spotify Canvas Animations. I'll continue to support them as a visual artist. \n\nYou can listen and follow them, and see my art from:\n[Instagram](https://www.instagram.com/anlakiofficial/)\n[Spotify](https://open.spotify.com/album/7laEBsY5TTPnZ0kxqs5aBX?si=2FxqDjwdRauDMLE4W8Ivow)\n[Apple Music](https://music.apple.com/tr/album/artık-ben-yokum-ep/1641490295)",
+    "role": "Cover Artist, Spotify Canvas Animator",
+    "thumbnail": "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_CoverArt(3000x3000px).jpeg",
+    "media": [
+      "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_CoverArt(3000x3000px).jpeg",
+      "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_1000Mil.jpeg",
+      "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_Degismeden.jpeg",
+      "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_GuvendigimDaglar.jpeg",
+      "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_KandirBeni-0001.jpeg",
+      "projects/2022_09-Anlaki-ArtikBenYokum/Anlaki_YazmaktanSikildim-0001.jpeg"
+    ],
+    "tags": [
+      "#AlbumCoverArt"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "belgesel-iletisim",
+    "title": "İletişim - TRT2",
+    "type": "Conceptual Documentary",
+    "date": "2022",
+    "description": "İletişim (Communication for Turkish) is a documentary about the different concepts of the communication term and its subterms. With Prof. Dr. Mete Çamdereli, we discover new ways to explain communication as a social construct. \n\nİletişim was aired from September 2022 on TRT2 and trtizle.com\nStream on [TRTizle](https://www.trtizle.com/programlar/iletisim)",
+    "role": "Producer, Soundtrack Composer",
+    "thumbnail": " projects/2022-belgesel-Iletisim/İletişim.jpeg",
+    "media": [
+      "projects/2022-belgesel-Iletisim/İletişim.jpeg",
+      "projects/2022-belgesel-Iletisim/iletisim-intro-preview.mp4",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(2).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(24).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(3).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(4).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(5).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(6).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(26).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(7).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(8).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(9).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(10).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(11).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(12).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(1).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(13).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(25).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(14).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(15).jpeg",
+      "projects/2022-belgesel-Iletisim/iletisim-outro-preview.mp4",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(16).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(17).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(18).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(19).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(20).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(21).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(22).jpeg",
+      "projects/2022-belgesel-Iletisim/Iletisim_still(23).jpeg"
+    ],
+    "tags": [
+      "#MediaProduction",
+      "#Soundtrack"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "videogame-edgeoftheabyys",
+    "title": "Edge of the Abyss",
+    "type": "Video Game",
+    "date": "2021",
+    "description": "\"Let us hope that the slumbering behemoth never wakes up.\" This game is about a cult trying to keep the devil in a tome. We're gathering new people into the cult and trying to manage it. We had about 10 days, but we worked 5 days or fewer, I think. \n\nLong story short we can't finish it. However, that project has a significant place in my workflow and creative process.\n[Itch.io](https://red-salmon.itch.io/abyss)",
+    "role": "Soundtrack Composer, Audio FXs",
+    "thumbnail": "projects/2021-videogame-edgeoftheabyys/Edge of the Abyys.jpeg",
+    "media": [
+      "projects/2021-videogame-edgeoftheabyys/Edge of the Abyys.jpeg",
+      "projects/2021-videogame-edgeoftheabyys/edge_of_the_abyys-gathering_the_cult-preview.mp4",
+      "projects/2021-videogame-edgeoftheabyys/Screenshot_01.jpeg",
+      "projects/2021-videogame-edgeoftheabyys/edge_of_the_abyys-intro_speech-preview.mp4",
+      "projects/2021-videogame-edgeoftheabyys/Screenshot_02.jpeg",
+      "projects/2021-videogame-edgeoftheabyys/edge_of_the_abyys-keeping_the_demon-preview.mp4"
+    ],
+    "tags": [
+      "#VideoGame",
+      "#Soundtrack"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "erdur-ergenekon",
+    "title": "ERGENEKON Series",
+    "type": "ComicBook Series",
+    "date": "2019-Present",
+    "description": "Erdur Design Studio started making a graphic novel in 2019. The first series of them Ergenekon is still in process. I'll gonna produce more tracks about Ergenekon until the series ends. \n\n[erdur.com](https://erdur.com)\n[BandCamp](https://uluc.bandcamp.com/album/ergenekon)",
+    "role": "Motion Graphics for Social Media Ads, Soundtrack Composer",
+    "thumbnail": "projects/2019-erdur-ergenekon/Works-Ergenekon1.jpeg",
+    "media": [
+      "projects/2019-erdur-ergenekon/Works-Ergenekon1.jpeg",
+      "projects/2019-erdur-ergenekon/Comic1.jpeg",
+      "projects/2019-erdur-ergenekon/ERGENEKON+Kazakhstan+2019+November.mp4",
+      "projects/2019-erdur-ergenekon/Erdur_Ergenekon1_3.jpeg",
+      "projects/2019-erdur-ergenekon/ergenekon-demiri_eritmek-preview.mp4",
+      "projects/2019-erdur-ergenekon/Comic2.jpeg"
+    ],
+    "tags": [
+      "#MediaProduction",
+      "#Soundtrack"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "videogame-3pixels",
+    "title": " Untitled Project",
+    "type": "Video Game",
+    "date": "2019 October",
+    "description": "I was on Team 2 in 3Pixels. We were working on an action shooter game for mobile devices. I managed the audio team. I also made some stage theme songs for two whole levels. And recorded some creature sounds. \n\nUnfortunately, I had to leave the project before its first demos. But that project has a very significant place in my audio workflow.",
+    "role": "Audio Team Leader, Composer",
+    "thumbnail": "projects/2019_10-videogame-3pixels/Cover_3Pixels.jpeg",
+    "media": [
+      "projects/2019_10-videogame-3pixels/Cover_3Pixels.jpeg",
+      "projects/2019_10-videogame-3pixels/3pixels_unnamed_project-desert_atmosphere-preview.mp4",
+      "projects/2019_10-videogame-3pixels/3pixels_unnamed_project-the_noise-preview.mp4"
+    ],
+    "tags": [
+      "#VideoGame",
+      "#Soundtrack"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "belgesel-para",
+    "title": "Para - TRT2",
+    "type": "Documentary",
+    "date": "2019",
+    "description": "This is a documentary about the history of the economy and money itself.<br><br>From the publisher:<br>\"The historical and cultural adventure of money from past to future...\"<br><br>Para was aired on TRT2 (TV Channel) in 2021.<br>Stream on <a href=\"http://trtizle.com/programlar/para\" target=\"_blank\">TRTizle</a>",
+    "role": "Post-Producer, Soundtrack Composer",
+    "thumbnail": "projects/2019-belgesel-para/Works-ParaBelgeseli.jpeg",
+    "media": [
+      "projects/2019-belgesel-para/Works-ParaBelgeseli.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 2-0001.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 2-0002.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 2-0005.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0006.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0007.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0008.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0009.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0010.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0011.jpeg",
+      "projects/2019-belgesel-para/PARA_Bölüm 5-0012.jpeg"
+    ],
+    "tags": [
+      "#MediaProduction",
+      "#Soundtrack"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "uluc-firstexperiments",
+    "title": "First Experiments (EP)",
+    "type": "Soundtrack Album",
+    "date": "2017",
+    "description": "These are my first tracks, the first musical experiments ever. I also remastered these tracks in 2022. \n\nYou can listen to the EP on [BandCamp](https://uluc.bandcamp.com/album/first-experiments)",
+    "role": "Producer, Composer",
+    "thumbnail": "projects/2017-uluc-firstexperiments/FirstExperiments.jpeg",
+    "media": [
+      "projects/2017-uluc-firstexperiments/FirstExperiments.jpeg",
+      "projects/2017-uluc-firstexperiments/first_experiments-a_mysterious_case-preview.mp4",
+      "projects/2017-uluc-firstexperiments/first_experiments-burunlar_vadisi_pusu-preview.mp4",
+      "projects/2017-uluc-firstexperiments/first_experiments-pathetic_souls-preview.mp4",
+      "projects/2017-uluc-firstexperiments/first_experiments-the_final_fight-preview.mp4"
+    ],
+    "tags": [
+      "#MusicRelease",
+      "#Soundtrack",
+      "#AlbumCoverArt",
+      "#Audio"
+    ],
+    "enabled": true
+  }
+]
